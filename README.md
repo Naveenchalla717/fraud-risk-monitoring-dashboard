@@ -49,6 +49,7 @@ Highlights fraud distribution across different transaction amount ranges.
 
 ## Business Value
 This dashboard helps fraud and risk teams quickly identify high-risk transaction windows and patterns to support proactive monitoring.
-
+## Conclusion
+This project demonstrates how data analytics can be used to transform raw transaction data into meaningful fraud monitoring insights.By combining Python-based data preparation with an interactive Power BI dashboard, the solution provides a structured approach to tracking fraud trends, monitoring key risk indicators, and enabling faster decision-making.The project reflects my ability to design end-to-end analytics workflows, build business-focused dashboards, and communicate insights effectively through data visualization.
 ## Author
 Naveen Kumar Challa
