@@ -10,8 +10,17 @@ This project demonstrates an end-to-end fraud analytics workflow using Python an
 
 ## Key Features
 - Hourly Fraud Rate Trend Analysis
+
+  ![Hourly Fraud Trend](Images/hourly-fraud-trend.png)
+
 - Transaction Risk Segmentation by Amount
+
+  ![Amount Risk Analysis](Images/amount-risk-analysis..png)
+
 - KPI Monitoring (Transactions, Fraud Count, Fraud Rate)
+
+  ![Dashboard Overview](Images/dashboard-overview.png)
+
 - Interactive Hour Filter
 
 ## Business Value
