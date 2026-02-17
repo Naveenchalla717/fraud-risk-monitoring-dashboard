@@ -1,7 +1,6 @@
 # Fraud Risk Monitoring Dashboard
 ## Problem Statement
-Financial transaction systems generate large volumes of data, making it difficult for fraud monitoring teams to quickly identify high-risk behavior.  
-The objective of this project is to build an interactive analytics dashboard that highlights fraud trends, monitors key risk metrics, and enables faster investigation through data-driven insights.
+Financial transaction systems generate large volumes of data, making it difficult for fraud monitoring teams to quickly identify high-risk behavior.The objective of this project is to build an interactive analytics dashboard that highlights fraud trends, monitors key risk metrics, and enables faster investigation through data-driven insights.
 ## Overview
 This project demonstrates an end-to-end fraud analytics workflow using Python and Power BI. The goal is to monitor transaction risk patterns, detect fraud trends, and provide business-level insights through interactive dashboards.
 
