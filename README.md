@@ -21,8 +21,6 @@ This project demonstrates an end-to-end fraud analytics workflow using Python an
 
   ![Dashboard Overview](Images/dashboard-overview.png)
 
-- Interactive Hour Filter
-
 ## Business Value
 This dashboard helps fraud and risk teams quickly identify high-risk transaction windows and patterns to support proactive monitoring.
 
