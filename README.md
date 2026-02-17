@@ -1,4 +1,4 @@
-# End-to-End Fraud Analytics Dashboard using Power BI and Python
+# Fraud Risk Monitoring Dashboard
 ## Overview
 This project demonstrates an end-to-end fraud analytics workflow using Python and Power BI. The goal is to monitor transaction risk patterns, detect fraud trends, and provide business-level insights through interactive dashboards.
 
